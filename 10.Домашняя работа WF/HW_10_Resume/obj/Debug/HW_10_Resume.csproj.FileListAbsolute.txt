@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\bin\Debug\HW_10_Resume.exe.config
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\bin\Debug\HW_10_Resume.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\bin\Debug\HW_10_Resume.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\obj\Debug\HW_10_Resume.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\obj\Debug\HW_10_Resume.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\obj\Debug\HW_10_Resume.Form1.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\obj\Debug\HW_10_Resume.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\obj\Debug\HW_10_Resume.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\obj\Debug\HW_10_Resume.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\obj\Debug\HW_10_Resume.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Resume\obj\Debug\HW_10_Resume.pdb

@@ -1,0 +1,36 @@
+C:\Users\User\source\repos\Первая_домашка_по_FORM\bin\Debug\net6.0-windows\Первая_домашка_по_FORM.exe
+C:\Users\User\source\repos\Первая_домашка_по_FORM\bin\Debug\net6.0-windows\Первая_домашка_по_FORM.deps.json
+C:\Users\User\source\repos\Первая_домашка_по_FORM\bin\Debug\net6.0-windows\Первая_домашка_по_FORM.runtimeconfig.json
+C:\Users\User\source\repos\Первая_домашка_по_FORM\bin\Debug\net6.0-windows\Первая_домашка_по_FORM.dll
+C:\Users\User\source\repos\Первая_домашка_по_FORM\bin\Debug\net6.0-windows\Первая_домашка_по_FORM.pdb
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.Цветные_кнопки.resources
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.Properties.Resources.resources
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.AssemblyInfo.cs
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.dll
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\refint\Первая_домашка_по_FORM.dll
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.pdb
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.genruntimeconfig.cache
+C:\Users\User\source\repos\Первая_домашка_по_FORM\obj\Debug\net6.0-windows\ref\Первая_домашка_по_FORM.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\bin\Debug\net6.0-windows\Первая_домашка_по_FORM.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\bin\Debug\net6.0-windows\Первая_домашка_по_FORM.deps.json
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\bin\Debug\net6.0-windows\Первая_домашка_по_FORM.runtimeconfig.json
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\bin\Debug\net6.0-windows\Первая_домашка_по_FORM.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\bin\Debug\net6.0-windows\Первая_домашка_по_FORM.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.Цветные_кнопки.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.AssemblyInfo.cs
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\refint\Первая_домашка_по_FORM.dll
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\Первая_домашка_по_FORM.genruntimeconfig.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\1.Домашняя работа FORM\Цветные кнопки домашка по FORM\obj\Debug\net6.0-windows\ref\Первая_домашка_по_FORM.dll

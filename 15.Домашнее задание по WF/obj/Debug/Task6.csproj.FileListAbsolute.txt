@@ -1,0 +1,21 @@
+C:\Users\HP\Documents\Шаг\C-Sharp\WindowsForm\HomeWork7-8\Task6\bin\Debug\Task6.exe.config
+C:\Users\HP\Documents\Шаг\C-Sharp\WindowsForm\HomeWork7-8\Task6\bin\Debug\Task6.exe
+C:\Users\HP\Documents\Шаг\C-Sharp\WindowsForm\HomeWork7-8\Task6\bin\Debug\Task6.pdb
+C:\Users\HP\Documents\Шаг\C-Sharp\WindowsForm\HomeWork7-8\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Шаг\C-Sharp\WindowsForm\HomeWork7-8\Task6\obj\Debug\Task6.Properties.Resources.resources
+C:\Users\HP\Documents\Шаг\C-Sharp\WindowsForm\HomeWork7-8\Task6\obj\Debug\Task6.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Шаг\C-Sharp\WindowsForm\HomeWork7-8\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Шаг\C-Sharp\WindowsForm\HomeWork7-8\Task6\obj\Debug\Task6.exe
+C:\Users\HP\Documents\Шаг\C-Sharp\WindowsForm\HomeWork7-8\Task6\obj\Debug\Task6.pdb
+C:\Users\HP\Documents\Шаг\C-Sharp\WindowsForm\HomeWork7-8\Task6\obj\Debug\Task6.FormMain.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\bin\Debug\Task6.exe.config
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\bin\Debug\Task6.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\bin\Debug\Task6.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\obj\Debug\Task6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\obj\Debug\Task6.FormMain.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\obj\Debug\Task6.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\obj\Debug\Task6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\obj\Debug\Task6.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\Домашняя работа  по WF\HomeWork7-8\Task6\obj\Debug\Task6.pdb

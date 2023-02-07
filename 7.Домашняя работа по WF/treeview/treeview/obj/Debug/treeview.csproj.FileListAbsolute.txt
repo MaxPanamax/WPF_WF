@@ -1,0 +1,31 @@
+d:\users\документы\visual studio 2015\Projects\treeview\treeview\bin\Debug\treeview.exe.config
+d:\users\документы\visual studio 2015\Projects\treeview\treeview\bin\Debug\treeview.exe
+d:\users\документы\visual studio 2015\Projects\treeview\treeview\bin\Debug\treeview.pdb
+d:\users\документы\visual studio 2015\Projects\treeview\treeview\obj\Debug\treeview.csprojResolveAssemblyReference.cache
+d:\users\документы\visual studio 2015\Projects\treeview\treeview\obj\Debug\treeview.Form1.resources
+d:\users\документы\visual studio 2015\Projects\treeview\treeview\obj\Debug\treeview.Properties.Resources.resources
+d:\users\документы\visual studio 2015\Projects\treeview\treeview\obj\Debug\treeview.csproj.GenerateResource.Cache
+d:\users\документы\visual studio 2015\Projects\treeview\treeview\obj\Debug\treeview.exe
+d:\users\документы\visual studio 2015\Projects\treeview\treeview\obj\Debug\treeview.pdb
+C:\Users\User\Documents\treeview\treeview\treeview\bin\Debug\treeview.exe.config
+C:\Users\User\Documents\treeview\treeview\treeview\bin\Debug\treeview.exe
+C:\Users\User\Documents\treeview\treeview\treeview\bin\Debug\treeview.pdb
+C:\Users\User\Documents\treeview\treeview\treeview\obj\Debug\treeview.csproj.AssemblyReference.cache
+C:\Users\User\Documents\treeview\treeview\treeview\obj\Debug\treeview.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\treeview\treeview\treeview\obj\Debug\treeview.Form1.resources
+C:\Users\User\Documents\treeview\treeview\treeview\obj\Debug\treeview.Properties.Resources.resources
+C:\Users\User\Documents\treeview\treeview\treeview\obj\Debug\treeview.csproj.GenerateResource.cache
+C:\Users\User\Documents\treeview\treeview\treeview\obj\Debug\treeview.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\treeview\treeview\treeview\obj\Debug\treeview.exe
+C:\Users\User\Documents\treeview\treeview\treeview\obj\Debug\treeview.pdb
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\bin\Debug\treeview.exe.config
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\bin\Debug\treeview.exe
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\bin\Debug\treeview.pdb
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\obj\Debug\treeview.csproj.AssemblyReference.cache
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\obj\Debug\treeview.csproj.SuggestedBindingRedirects.cache
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\obj\Debug\treeview.Form1.resources
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\obj\Debug\treeview.Properties.Resources.resources
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\obj\Debug\treeview.csproj.GenerateResource.cache
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\obj\Debug\treeview.csproj.CoreCompileInputs.cache
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\obj\Debug\treeview.exe
+E:\Домашняя работа по FORM\7.Домашняя работа по WF\treeview\treeview\obj\Debug\treeview.pdb

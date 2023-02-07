@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\bin\Debug\11.Домашняя работа по WF.exe.config
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\bin\Debug\11.Домашняя работа по WF.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\bin\Debug\11.Домашняя работа по WF.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\obj\Debug\_11.Домашняя_работа_по_WF.Form1.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\obj\Debug\_11.Домашняя_работа_по_WF.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.pdb
+C:\Users\Mss.TRIBRATA\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\bin\Debug\11.Домашняя работа по WF.exe.config
+C:\Users\Mss.TRIBRATA\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\bin\Debug\11.Домашняя работа по WF.exe
+C:\Users\Mss.TRIBRATA\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\bin\Debug\11.Домашняя работа по WF.pdb
+C:\Users\Mss.TRIBRATA\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.AssemblyReference.cache
+C:\Users\Mss.TRIBRATA\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\_11.Домашняя_работа_по_WF.Form1.resources
+C:\Users\Mss.TRIBRATA\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\_11.Домашняя_работа_по_WF.Properties.Resources.resources
+C:\Users\Mss.TRIBRATA\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.GenerateResource.cache
+C:\Users\Mss.TRIBRATA\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.CoreCompileInputs.cache
+C:\Users\Mss.TRIBRATA\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.exe
+C:\Users\Mss.TRIBRATA\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.pdb
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\bin\Debug\11.Домашняя работа по WF.exe.config
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\bin\Debug\11.Домашняя работа по WF.exe
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\bin\Debug\11.Домашняя работа по WF.pdb
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\_11.Домашняя_работа_по_WF.Form1.resources
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\_11.Домашняя_работа_по_WF.Properties.Resources.resources
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.GenerateResource.cache
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.exe
+C:\Users\User\Downloads\11.Домашняя работа по WF(1)\11.Домашняя работа по WF\obj\Debug\11.Домашняя работа по WF.pdb

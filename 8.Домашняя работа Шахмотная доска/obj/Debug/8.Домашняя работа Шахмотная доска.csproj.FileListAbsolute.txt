@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\bin\Debug\8.Домашняя работа Шахмотная доска.exe.config
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\bin\Debug\8.Домашняя работа Шахмотная доска.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\bin\Debug\8.Домашняя работа Шахмотная доска.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\obj\Debug\8.Домашняя работа Шахмотная доска.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\obj\Debug\8.Домашняя работа Шахмотная доска.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\obj\Debug\_8.Домашняя_работа_Шахмотная_доска.Form1.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\obj\Debug\_8.Домашняя_работа_Шахмотная_доска.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\obj\Debug\8.Домашняя работа Шахмотная доска.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\obj\Debug\8.Домашняя работа Шахмотная доска.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\obj\Debug\8.Домашняя работа Шахмотная доска.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\8.Домашняя работа Шахмотная доска\obj\Debug\8.Домашняя работа Шахмотная доска.pdb

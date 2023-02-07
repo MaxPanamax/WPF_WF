@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Button_C" Content="C" HorizontalAlignment="Left" Margin="177,143,0,0" VerticalAlignment="Top" Height="36" Width="108" RenderTransformOrigin="0.507,0.485" FontWeight="Bold" FontSize="20" Click="Button_C_Click"/>
+        <Button x:Name="Button_удалить" Content="&lt;--" HorizontalAlignment="Left" Margin="306,143,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_удалить_Click"/>
+        <Button x:Name="Button_проценты" Content="%" HorizontalAlignment="Left" Margin="438,143,0,0" VerticalAlignment="Top" Height="36" Width="108" FontSize="20" FontWeight="Bold" Click="Button_проценты_Click"/>
+        <Button x:Name="Dutton_плюс" Content="+" HorizontalAlignment="Left" Margin="567,143,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Dutton_плюс_Click"/>
+        <Button x:Name="Button_7" Content="7" HorizontalAlignment="Left" Margin="177,194,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_7_Click"/>
+        <Button x:Name="Button_8" Content="8" HorizontalAlignment="Left" Margin="306,194,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_8_Click"/>
+        <Button x:Name="Button_9" Content="9" HorizontalAlignment="Left" Margin="438,194,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_9_Click"/>
+        <Button x:Name="Button_отнять" Content="-" HorizontalAlignment="Left" Margin="567,194,0,0" VerticalAlignment="Top" Height="36" Width="108" FontSize="20" FontWeight="Bold" Click="Button_отнять_Click"/>
+        <Button x:Name="Button_4" Content="4" HorizontalAlignment="Left" Margin="177,248,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_4_Click"/>
+        <Button x:Name="Button_5" Content="5" HorizontalAlignment="Left" Margin="306,248,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_5_Click"/>
+        <Button x:Name="Button_6" Content="6" HorizontalAlignment="Left" Margin="438,248,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_6_Click"/>
+        <Button x:Name="Dutton_умножить" Content="*" HorizontalAlignment="Left" Margin="567,248,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Dutton_умножить_Click"/>
+        <Button x:Name="Buton_1" Content="1" HorizontalAlignment="Left" Margin="177,304,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Buton_1_Click"/>
+        <Button x:Name="Button_2" Content="2" HorizontalAlignment="Left" Margin="306,304,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_2_Click"/>
+        <Button x:Name="Button_3" Content="3" HorizontalAlignment="Left" Margin="438,304,0,0" VerticalAlignment="Top" Height="36" Width="108" FontSize="20" FontWeight="Bold" Click="Button_3_Click"/>
+        <Button x:Name="Button_делить" Content="/" HorizontalAlignment="Left" Margin="567,304,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_делить_Click"/>
+        <Button x:Name="Button_0" Content="0" HorizontalAlignment="Left" Margin="177,359,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_0_Click"/>
+        <Button x:Name="Button_точка" Content="." HorizontalAlignment="Left" Margin="306,359,0,0" VerticalAlignment="Top" Height="36" Width="108" FontSize="20" Click="Button_точка_Click"/>
+        <Button x:Name="Button_знак" Content="+/-" HorizontalAlignment="Left" Margin="438,359,0,0" VerticalAlignment="Top" Height="36" Width="108" FontWeight="Bold" FontSize="20" Click="Button_знак_Click_1"/>
+        <Button x:Name="Button_равно" Content="=" HorizontalAlignment="Left" Margin="567,359,0,0" VerticalAlignment="Top" Height="36" Width="108" FontSize="20" FontWeight="Bold" Click="Button_равно_Click"/>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Margin="177,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="498" Height="71" FontSize="48" FlowDirection="RightToLeft" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="TextBox_Экран_2" HorizontalAlignment="Left" Margin="195,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145" Height="42" FontWeight="Bold" FontSize="36"/>
+    </Grid>
+</Window>

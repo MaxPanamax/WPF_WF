@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\bin\Debug\Task2.exe.config
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\bin\Debug\Task2.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\bin\Debug\Task2.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\Ponomarenko_HW_9.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\Ponomarenko_HW_9.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\Task2_MarkupCompile.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\Task2_MarkupCompile.lref
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\Task2.g.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\Ponomarenko_HW_9.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\Ponomarenko_HW_9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\Task2.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\9.Домашняя работа WPF\Регистрация вид в WPF\obj\Debug\Task2.pdb

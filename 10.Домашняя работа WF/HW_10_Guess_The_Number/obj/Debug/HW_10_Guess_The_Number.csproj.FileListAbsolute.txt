@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\bin\Debug\HW_10_Guess_The_Number.exe.config
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\bin\Debug\HW_10_Guess_The_Number.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\bin\Debug\HW_10_Guess_The_Number.pdb
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\obj\Debug\HW_10_Guess_The_Number.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\obj\Debug\HW_10_Guess_The_Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\obj\Debug\HW_10_Guess_The_Number.Form1.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\obj\Debug\HW_10_Guess_The_Number.Properties.Resources.resources
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\obj\Debug\HW_10_Guess_The_Number.csproj.GenerateResource.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\obj\Debug\HW_10_Guess_The_Number.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\obj\Debug\HW_10_Guess_The_Number.exe
+C:\Users\User\Desktop\домашняя работа\Домашняя работа по FORM\HW_10_Guess_The_Number\obj\Debug\HW_10_Guess_The_Number.pdb

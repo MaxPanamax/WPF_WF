@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\домашняя работа\Task\Task1\obj\Debug\Заправка.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Task\Task1\obj\Debug\Заправка.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Task\Task1\obj\Debug\Task1.exe
+C:\Users\User\Desktop\домашняя работа\Task\Task1\obj\Debug\Task1.pdb

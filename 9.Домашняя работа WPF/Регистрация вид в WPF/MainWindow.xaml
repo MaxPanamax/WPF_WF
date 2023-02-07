@@ -1,0 +1,91 @@
+﻿<Window x:Name="FormAuthentication" x:Class="Task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2"
+        mc:Ignorable="d"
+        Title="Идентификация" Height="200" Width="400" Background="#FF444141" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" >
+    <Window.Resources>
+        <Style TargetType="Label" x:Key="defaultLabelResources">
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="14"></Setter>
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+            <Setter Property="Foreground" Value="White"></Setter>
+        </Style>
+        <Style TargetType="TextBox">
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="10" />
+                </Style>
+            </Style.Resources>
+            <Setter Property="Margin" Value="6px"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Background" Value="#FF5F5F5F"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+        <ControlTemplate x:Key="passwordbox" TargetType="{x:Type PasswordBox}">
+            <Border Background="{TemplateBinding Background}" 
+                    x:Name="Bd" BorderBrush="#FFE6DDDD"
+                    BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="10">
+                <ScrollViewer Name="PART_ContentHost" SnapsToDevicePixels="{TemplateBinding UIElement.SnapsToDevicePixels}" />
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="Width" Value="Auto">
+                    <Setter Property="Margin" Value="6px"/>
+                    <Setter Property="FontSize" Value="18"/>
+                    <Setter Property="Background" Value="#FF5F5F5F"/>
+                    <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"/>
+                    <Setter Property="VerticalAlignment" Value="Center"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+        <Style TargetType="CheckBox" x:Key="defaultCheckBoxResources">
+            <Style.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="3" />
+                </Style>
+            </Style.Resources>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Background" Value="#FFB1ADAD"></Setter>
+            <Setter Property="Foreground" Value="White"></Setter>
+            <Setter Property="FontSize" Value="11"></Setter>
+        </Style>
+        <Style TargetType="Button" x:Key="defaultButtonResources">
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="20" />
+                </Style>
+            </Style.Resources>
+            <Setter Property="Background" Value="#FF7FF077"/>
+            <Setter Property="Margin" Value="9"></Setter>
+            <Setter Property="FontSize" Value="25"></Setter>
+            <Setter Property="Foreground" Value="White"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid x:Name="GridAuthentication" Background="#FF05A08E">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="73*"/>
+            <ColumnDefinition Width="127*"/>
+            <ColumnDefinition Width="127*"/>
+            <ColumnDefinition Width="47*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.3*"/>
+            <RowDefinition Height="0.3*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+        <Label Style="{StaticResource defaultLabelResources}" Grid.Column="0" Name="LabelUserName" Content="Имя ползователя:" FontSize="10" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="1,0,0,0"/>
+        <Label Style="{StaticResource defaultLabelResources}" Grid.Row="1" Grid.Column="1" Name="LabelUserPassword" Content="Пароль:" FontSize="10" HorizontalAlignment="Left" Margin="23,0,0,0"/>
+        <TextBox Name="TextBoxUserName" Grid.Column="2" Grid.ColumnSpan="3" Text="Maxim" Background="#FFC477EA" Margin="6,0,6,0" />
+        <PasswordBox Name="TextBoxUserPassword" Template="{StaticResource passwordbox}"  Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="3" Background="#FFC477EA" Margin="6,0,6,0"/>
+        <CheckBox  Style="{StaticResource defaultCheckBoxResources}" Content="Запомнить" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2" Margin="72,0,0,0" />
+        <Button Name="ButtonLogIn" Style="{StaticResource defaultButtonResources}" Content="Авторизоваться" Grid.Column="2"  Grid.Row="3" FontSize="12" Background="#FF434DF1" Margin="9,9,9,9" />
+        <Button Name="ButtonCancel" Style="{StaticResource defaultButtonResources}" Content="Отменить" Grid.Column="3"  Grid.Row="3" Background="#FFFF5200" FontSize="12" Margin="9,9,9,9"/>
+    </Grid>
+</Window>
